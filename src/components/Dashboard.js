@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
+import Tweet from "./Tweet";
 
 class Dashboard extends Component {
   render() {
@@ -9,7 +10,7 @@ class Dashboard extends Component {
         <ul className="dashboard-list">
           {this.props.tweetIds.map(id => (
             <li key={id}>
-              <div>TWEET ID: {id}</div>
+              <Tweet id={id} />
             </li>
           ))}
         </ul>
@@ -18,7 +19,7 @@ class Dashboard extends Component {
   }
 }
 
-// mapStateToProps is the way to retrieve data from the store. The name says it all. We need to connect it in the end. 
+// mapStateToProps is the way to retrieve data from the store. The name says it all. We need to connect it in the end.
 
 function mapStateToProps({ tweets }) {
   return {
