@@ -65,8 +65,7 @@ let tweets = {
   },
   f4xzgapq7mu783k9t02ghx: {
     id: "f4xzgapq7mu783k9t02ghx",
-    text:
-      "Want to work at Facebook/Google/:BigCompany? Start contributing code long before you ever interview there.",
+    text: "Want to work at Facebook?",
     author: "tylermcginnis",
     timestamp: 1517043995650,
     likes: ["Me"],
@@ -175,8 +174,7 @@ let tweets = {
   njv20mq7jsxa6bgsqc97: {
     id: "njv20mq7jsxa6bgsqc97",
     author: "Me",
-    text:
-      "Check the source code at: https://github.com/Polcius/redux-twitter-clone",
+    text: "Check the source code at: https://github.com/Polcius",
     timestamp: 1518044095650,
     likes: ["tylermcginnis"],
     replyingTo: "5c9qojr2d1738zlx09afby",
