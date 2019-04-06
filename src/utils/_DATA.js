@@ -46,7 +46,7 @@ let tweets = {
   "8xf0y6ziyjabvozdd253nd": {
     id: "8xf0y6ziyjabvozdd253nd",
     text:
-      "Shoutout to all the speakers I know for whom English is not a first language, but can STILL explain a concept well. It's hard enough to give a good talk in your mother tongue!",
+      "Feel free to experiment and explore. It works like Twitter, no big secret :). Your username is: Me",
     author: "sarah_edo",
     timestamp: 1518122597860,
     likes: ["tylermcginnis"],
@@ -56,7 +56,7 @@ let tweets = {
   "5c9qojr2d1738zlx09afby": {
     id: "5c9qojr2d1738zlx09afby",
     text:
-      "I hope one day the propTypes pendulum swings back. Such a simple yet effective API. Was one of my favorite parts of React.",
+      "This is only a client-side app, so New Tweets or Likes will not persist. Everything you do will reset on browser refresh.",
     author: "tylermcginnis",
     timestamp: 1518043995650,
     likes: ["sarah_edo", "Me"],
@@ -156,7 +156,7 @@ let tweets = {
     id: "fap8sdxppna8oabnxljzcv",
     author: "tylermcginnis",
     text:
-      "I agree. I'm always really impressed when I see someone giving a talk in a language that's not their own.",
+      "This is a Twitter clone built with React + Redux. It is the final project of a Redux course taught by Tyler McGinnis.",
     timestamp: 1518122677860,
     likes: ["sarah_edo"],
     replyingTo: "8xf0y6ziyjabvozdd253nd",
@@ -165,7 +165,8 @@ let tweets = {
   "3km0v4hf1ps92ajf4z2ytg": {
     id: "3km0v4hf1ps92ajf4z2ytg",
     author: "Me",
-    text: "It can be difficult at times.",
+    text:
+      "The original source code is by TylerMcGinnis. I built the app as an exercise to learn state management with Redux.",
     timestamp: 1518122667860,
     likes: [],
     replyingTo: "8xf0y6ziyjabvozdd253nd",
@@ -174,7 +175,8 @@ let tweets = {
   njv20mq7jsxa6bgsqc97: {
     id: "njv20mq7jsxa6bgsqc97",
     author: "Me",
-    text: "Sometimes you have to sacrifice simplicity for power.",
+    text:
+      "Check the source code at: https://github.com/Polcius/redux-twitter-clone",
     timestamp: 1518044095650,
     likes: ["tylermcginnis"],
     replyingTo: "5c9qojr2d1738zlx09afby",
