@@ -26,9 +26,9 @@ let users = {
       "xi3ca2jcfvpa0i3t4m7ag"
     ]
   },
-  dan_abramov: {
-    id: "dan_abramov",
-    name: "Dan Abramov",
+  Me: {
+    id: "Me",
+    name: "Me",
     avatarURL: "https://tylermcginnis.com/would-you-rather/dan.jpg",
     tweets: [
       "5w6k1n34dkp1x29cuzn2zn",
@@ -59,7 +59,7 @@ let tweets = {
       "I hope one day the propTypes pendulum swings back. Such a simple yet effective API. Was one of my favorite parts of React.",
     author: "tylermcginnis",
     timestamp: 1518043995650,
-    likes: ["sarah_edo", "dan_abramov"],
+    likes: ["sarah_edo", "Me"],
     replies: ["njv20mq7jsxa6bgsqc97"],
     replyingTo: null
   },
@@ -69,7 +69,7 @@ let tweets = {
       "Want to work at Facebook/Google/:BigCompany? Start contributing code long before you ever interview there.",
     author: "tylermcginnis",
     timestamp: 1517043995650,
-    likes: ["dan_abramov"],
+    likes: ["Me"],
     replies: [],
     replyingTo: null
   },
@@ -86,7 +86,7 @@ let tweets = {
     id: "5w6k1n34dkp1x29cuzn2zn",
     text:
       "Is there a metric like code coverage, but that shows lines that, if changed (in a syntactically correct way), wouldn’t cause tests to fail?",
-    author: "dan_abramov",
+    author: "Me",
     timestamp: 1515043995650,
     likes: ["sarah_edo"],
     replies: [],
@@ -96,7 +96,7 @@ let tweets = {
     id: "czpa59mg577x1oo45cup0d",
     text:
       "React came out 'rethinking best practices'. It has since accumulated 'best practices' of its own. Let’s see if we can do better.",
-    author: "dan_abramov",
+    author: "Me",
     timestamp: 1515043995650,
     likes: ["tylermcginnis", "sarah_edo"],
     replies: ["3sklxkf9yyfowrf0o1ftbb"],
@@ -108,7 +108,7 @@ let tweets = {
       "I think I realized I like dogs so much because I can really relate to being motivated by snacks",
     author: "sarah_edo",
     timestamp: 1514043995650,
-    likes: ["dan_abramov"],
+    likes: ["Me"],
     replies: ["26p5pskqi88i58qmza2gid"],
     replyingTo: null
   },
@@ -126,7 +126,7 @@ let tweets = {
     id: "omdbjl68fxact38hk7ypy6",
     text:
       "A 7-minute Paul Joseph Watson video being translated and aired by a Russian state TV channel is the most surreal thing I’ve seen in 2018 yet",
-    author: "dan_abramov",
+    author: "Me",
     timestamp: 1512043995650,
     likes: [],
     replies: [],
@@ -138,7 +138,7 @@ let tweets = {
       "Talking less about the downsides of OSS and focusing on some of the huge potential upsides for once might just help get more people into it.",
     author: "tylermcginnis",
     timestamp: 1511043995650,
-    likes: ["dan_abramov"],
+    likes: ["Me"],
     replies: [],
     replyingTo: null
   },
@@ -148,7 +148,7 @@ let tweets = {
       "By the way, if you have a blog post sitting around and want to get some eyes on it, we take guest submissions! That's how I started.",
     author: "sarah_edo",
     timestamp: 1510043995650,
-    likes: ["dan_abramov", "tylermcginnis"],
+    likes: ["Me", "tylermcginnis"],
     replies: ["xi3ca2jcfvpa0i3t4m7ag", "r0xu2v1qrxa6ygtvf2rkjw"],
     replyingTo: null
   },
@@ -164,7 +164,7 @@ let tweets = {
   },
   "3km0v4hf1ps92ajf4z2ytg": {
     id: "3km0v4hf1ps92ajf4z2ytg",
-    author: "dan_abramov",
+    author: "Me",
     text: "It can be difficult at times.",
     timestamp: 1518122667860,
     likes: [],
@@ -173,7 +173,7 @@ let tweets = {
   },
   njv20mq7jsxa6bgsqc97: {
     id: "njv20mq7jsxa6bgsqc97",
-    author: "dan_abramov",
+    author: "Me",
     text: "Sometimes you have to sacrifice simplicity for power.",
     timestamp: 1518044095650,
     likes: ["tylermcginnis"],
@@ -191,7 +191,7 @@ let tweets = {
   },
   sfljgka8pfddbcer8nuxv: {
     id: "sfljgka8pfddbcer8nuxv",
-    author: "dan_abramov",
+    author: "Me",
     text: "Puppies are the best.",
     timestamp: 1516045995650,
     likes: ["sarah_edo", "tylermcginnis"],
@@ -204,7 +204,7 @@ let tweets = {
     text:
       "The idea of best practices being a negative thing is an interesting concept.",
     timestamp: 1515044095650,
-    likes: ["dan_abramov"],
+    likes: ["Me"],
     replyingTo: "czpa59mg577x1oo45cup0d",
     replies: []
   },
@@ -228,7 +228,7 @@ let tweets = {
   },
   r0xu2v1qrxa6ygtvf2rkjw: {
     id: "r0xu2v1qrxa6ygtvf2rkjw",
-    author: "dan_abramov",
+    author: "Me",
     text: "This is a great idea.",
     timestamp: 1510044395650,
     likes: ["tylermcginnis"],

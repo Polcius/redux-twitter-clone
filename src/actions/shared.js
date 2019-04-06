@@ -6,7 +6,7 @@ import { setAuthedUser } from "./authedUser";
 
 export const RECEIVE_DATA = "RECEIVE_DATA";
 
-const AUTHED_ID = "dan_abramov";
+const AUTHED_ID = "Me";
 
 export function handleInitialData() {
   return dispatch => {
